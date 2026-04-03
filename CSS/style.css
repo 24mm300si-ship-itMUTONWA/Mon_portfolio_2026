@@ -203,44 +203,8 @@ footer a:hover {
     color: var(--orange-vif);
     transform: translateY(-3px);
 }
-body{
-    margin: 0;
-    padding: 0;
-    font-family: arial, sans-serif;
-    background-color: f9f9f9;
-}
-.container{
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 40px 20px;
 
-}
-section{
-    margin-bottom: 60px;
-}
-h1, h2{
-    margin: 20px 0;
-    text-align: center;
-}
-project{
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
-    gap: 30px;
-}
-.project-card{
-    background: #FFF;
-    border-radius: 8px;
-    padding: 20px;
-    box-shadow: 0 2px 8px (0,0,0,0,1);
-}
-footer{
-    text-align: center;
-    padding: 20px;
-    margin-top: 40px;
-    background-color: #EEE;
-}
-
-.Mes Réalisations{
+ .mes Réalisations{
     width: 800px;
     margin: 6rem  auto;
     text-align:center;
